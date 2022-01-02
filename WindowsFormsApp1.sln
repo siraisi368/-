@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EEWApp", "WindowsFormsApp1\EEWApp.csproj", "{CE070BD3-D102-4E24-AD7A-DB21688FB5CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE070BD3-D102-4E24-AD7A-DB21688FB5CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE070BD3-D102-4E24-AD7A-DB21688FB5CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE070BD3-D102-4E24-AD7A-DB21688FB5CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE070BD3-D102-4E24-AD7A-DB21688FB5CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D6EA6571-4422-459D-8FBE-54183FA1D120}
+	EndGlobalSection
+EndGlobal
